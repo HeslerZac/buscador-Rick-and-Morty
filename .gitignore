@@ -1,0 +1,19 @@
+# Dependencias de Node.js
+# La carpeta node_modules se puede reinstalar en cualquier momento con `npm install`
+/node_modules
+
+# Archivos de compilación
+# La carpeta dist se genera automáticamente con el comando de Tailwind
+/dist
+
+# Logs
+# Archivos de registro de errores de npm
+npm-debug.log*
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos del editor (VS Code)
+.vscode/
